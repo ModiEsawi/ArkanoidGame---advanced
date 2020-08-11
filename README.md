@@ -8,6 +8,7 @@ We will be adding the following capabilities:
 - "Killing" the player when all the balls fall of the screen.
 - Keeping score.
 - Keeping track of number of lives.
+- balls change colors when they collide.
 - a few additional features.
 - In terms of object-oriented techniques, the main new technique we will be using is the Listener pattern (also called Observer). You can also use inheritance if you find use for it.
 
